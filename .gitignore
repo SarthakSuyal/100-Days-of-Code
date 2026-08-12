@@ -1,0 +1,5 @@
+*.out
+Day*/Problem*[0-9]
+Day*/*[!.c]
+*.out
+a.out
